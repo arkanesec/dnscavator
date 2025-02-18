@@ -17,7 +17,6 @@ This tool is provided for educational and ethical testing purposes only. Using t
 *   DNS query generation: Constructs DNS queries with the encoded data in the subdomain.
 *   UDP transport: Sends DNS queries over UDP.
 *   User-friendly interface: Prompts the user for the file path and DNS server IP address.
-*   ASCII art banner: Displays a stylized banner upon execution.
 
 ## Requirements
 
