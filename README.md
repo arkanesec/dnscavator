@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/1bad0b68-7d5d-4fe0-b5c2-8106a6ff9189)
+
+
 # dnscavator
 # DNScavator - DNS Data Exfiltration Tool
 
